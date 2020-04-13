@@ -11,8 +11,8 @@ const createWindow = function(){
         enableRemoteModule: true
     })
 
-    //window.loadURL("https://messages.google.com/web/")
-    window.loadURL("https://www.youtube.com/");
+    window.loadURL("https://messages.google.com/web/")
+
     window.on('blur', function(){
         window.hide();
     })
