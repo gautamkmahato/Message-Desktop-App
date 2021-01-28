@@ -9,6 +9,6 @@
   "author": "gautam",
   "license": "ISC",
   "dependencies": {
-    "electron": "^8.2.1"
+    "electron": "^9.4.0"
   }
 }
